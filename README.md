@@ -1,6 +1,6 @@
 # Project Aether
 
-![Aether Interface](screenshot1.png)
+![Aether Interface](screenshot2.png)
 
 A single-screen Flutter app that manages a live "World Event" and a high-frequency engagement layer for a global MMORPG.
 
