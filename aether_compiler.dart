@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print, always_specify_types, prefer_final_locals, avoid_catches_without_on_clauses
 import 'dart:io';
 
 void main() {
