@@ -1,5 +1,7 @@
 # Project Aether
 
+![Aether Interface](screenshot.png)
+
 A single-screen Flutter app that manages a live "World Event" and a high-frequency engagement layer for a global MMORPG.
 
 ## The Firebase Bill (Cost & Sharding)
